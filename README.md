@@ -1,6 +1,6 @@
 # | NLP | LLM | LangChain | Question Answer Data |
 
-## Natural Language Processing (NLP) and Large Language Models (LLM) with langchain for Question Answering on Own Data
+## Natural Language Processing (NLP) and Large Language Models (LLM) with LangChain and Inretrieval augmented generation (RAG) for Question Answering on Own Data
 
 ![Learning](https://t3.ftcdn.net/jpg/06/14/01/52/360_F_614015247_EWZHvC6AAOsaIOepakhyJvMqUu5tpLfY.jpg)
 
